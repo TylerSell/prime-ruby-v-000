@@ -1,4 +1,5 @@
 def prime?(array)
-  array.each do |prime|
+  array.each do |n|
+    if 
   end
 end
