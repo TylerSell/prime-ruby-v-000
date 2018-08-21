@@ -1,4 +1,5 @@
 def prime?(array)
-      if 
+  if number >= 2 
+    
   end
 end
